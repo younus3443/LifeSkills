@@ -123,16 +123,8 @@ It acts as a **communication backbone**, routing messages between systems using 
 
 ---
 
-## 7. Popular Enterprise Messaging Platforms  
 
-- :contentReference[oaicite:5]{index=5}  
-- :contentReference[oaicite:6]{index=6}  
-- :contentReference[oaicite:7]{index=7}  
-- :contentReference[oaicite:8]{index=8}  
-
----
-
-## 8. Use Cases  
+## 7. Use Cases  
 
 - Microservices communication  
 - Financial transaction processing  
@@ -143,12 +135,12 @@ It acts as a **communication backbone**, routing messages between systems using 
 
 ---
 
-## 9. Conclusion  
+## 8. Conclusion  
 Messaging queues and enterprise message buses are foundational technologies in modern distributed systems. While messaging queues excel at decoupling and scalability in microservices, enterprise message buses address complex integration needs across large organizations. Selecting the right messaging solution depends on system scale, complexity, and architectural goals.
 
 ---
 
-## 10. References  
+## 9. References  
 - AMQP Specification  
 - Apache Kafka Documentation  
 - *Enterprise Integration Patterns*
